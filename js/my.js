@@ -1,4 +1,5 @@
-$(document).ready(function(){
+// $(document).ready(function(){
+jQuery(document).ready(function($){	
 	$('.slider').bxSlider({
 		auto: true,
 		buildPager: function(slideIndex){

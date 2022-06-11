@@ -321,6 +321,10 @@ tr .kids {
   height: 84px;
 }
 
+#Contact {
+  margin-bottom: 30px;
+}
+
 @media screen and (max-width: 992px) {
   #mainNav.navbar-shrink .nav-link.active {
     color: #64a19d;
