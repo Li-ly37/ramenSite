@@ -1,7 +1,7 @@
-jQuery(document).ready(function($){
-// $(document).ready(function(){
+$(document).ready(function(){
 	$('.slider').bxSlider({
 		auto: true,
+		useCSS: false,
 		buildPager: function(slideIndex){
 			switch(slideIndex){
 				case 0:
