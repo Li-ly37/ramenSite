@@ -321,13 +321,17 @@ tr .kids {
   height: 84px;
 }
 
+#Contact {
+  margin-bottom: 35px;
+}
+
 @media screen and (max-width: 992px) {
   #mainNav.navbar-shrink .nav-link.active {
     color: #64a19d;
     outline: none;
     border-bottom: 0.25rem solid #64a19d;
   }
-  
+
   .navbar-nav .nav-link  {
     display: block;
     height: 86px;
