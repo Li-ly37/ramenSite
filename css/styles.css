@@ -145,7 +145,7 @@
     display: block;
     /* 数値変更 */
     /* width: 31%; */
-    width: 34%;
+    width: fit-content;
     height: 71px;
     position: absolute;
     z-index: 3;
@@ -167,7 +167,7 @@
     z-index: 100;
     display: block;
     /* %数値変更 */
-    width: 22%;
+    width: fit-content;
     height: 185px;
     position: absolute;
     z-index: 3;
@@ -279,7 +279,7 @@
   .menu-item-price {
     border-collapse: collapse;
     line-height: 1.25;
-    margin: 0 auto;
+    margin: 3rem auto 0;
     font-size: 16px;
   }
 
