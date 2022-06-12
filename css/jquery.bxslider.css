@@ -12,7 +12,8 @@
   touch-action: pan-y;
 }
 .bx-wrapper img {
-  max-width: 100%;
+  /* 100%から変更 */
+  max-width: 99%;
   display: block;
   /* 下記追加 */
   margin-right: 15px;

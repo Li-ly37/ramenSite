@@ -203,7 +203,8 @@
   }
 
   .about-coment {
-    text-align: center;
+    /* text-align: center; 修正*/
+    text-align: justify;
     font-size: 25px;
   }
 
