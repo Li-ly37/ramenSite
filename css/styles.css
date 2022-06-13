@@ -64,8 +64,6 @@
     -ms-flex-align: center;
     align-items: center;
     -ms-flex-pack: justify;
-    /* コメントアウト */
-    /* justify-content: space-between; */
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
@@ -264,7 +262,6 @@
     padding: 0;
     color: #350000;
     line-height: 1.25;
-
     margin: 0 0 1.375rem;
     font-size: 28px;
   }

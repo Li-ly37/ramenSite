@@ -338,3 +338,20 @@ tr .kids {
     padding: 1.5rem 1.5rem 1.25rem;
   }
 }
+
+@media screen and (max-width: 991px) {
+  .menu-item-name {
+    height: 4rem;
+  }
+
+  .bx-pager-item {
+    background-color: red;
+    width: 20%;
+  }
+}
+
+@media screen and (max-width: 483px) {
+  .menu-item-name {
+    height: 6.5rem;
+  }
+}

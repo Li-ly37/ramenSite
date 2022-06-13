@@ -44,6 +44,8 @@ ul.bxslider {
   position: absolute;
   /* コメントアウト */
   /* bottom: -30px; */
+  padding: 20px 0;
+  display: table-cell;
   width: 100%;
 }
 /* LOADER */
