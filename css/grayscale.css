@@ -354,3 +354,8 @@ tr .kids {
     height: 6.5rem;
   }
 }
+
+table td{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
