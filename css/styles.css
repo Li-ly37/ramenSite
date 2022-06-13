@@ -32,9 +32,7 @@
   section {
     box-sizing: content-box;
     margin: 0 auto;
-    /* 下記変更 */
-    /* max-width: 980px; */
-    max-width: fit-content;
+    max-width: 980px;
     padding: 0 16px;
   }
 
